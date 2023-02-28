@@ -12,7 +12,9 @@
 
 `В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.`
 
-https://github.com/Kirill-pixel/Netology-8.1.-Git/commit/23793365ad0b1075c6a671f8444935361335e4e4
+![Скриншот-1](https://github.com/Kirill-pixel/Netology-8.2/blob/main/8.2%20CI-CD/1.png)
+![Скриншот-1](https://github.com/Kirill-pixel/Netology-8.2/blob/main/8.2%20CI-CD/2.png)
+![Скриншот-1](https://github.com/Kirill-pixel/Netology-8.2/blob/main/8.2%20CI-CD/3.png)
 ---
 
 ### Задание 2
@@ -22,7 +24,9 @@ https://github.com/Kirill-pixel/Netology-8.1.-Git/commit/23793365ad0b1075c6a671f
 
 `В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.`
 
-https://github.com/Kirill-pixel/Netology-8.1.-Git/commit/82c7cdb8d91bd16bebd7b09086b1df00493bad58
+![Скриншот-1](https://github.com/Kirill-pixel/Netology-8.2/blob/main/8.2%20CI-CD/2.1.png)
+![Скриншот-1](https://github.com/Kirill-pixel/Netology-8.2/blob/main/8.2%20CI-CD/2.2.png)
+![Скриншот-1](https://github.com/Kirill-pixel/Netology-8.2/blob/main/8.2%20CI-CD/2.3.png)
 ---
 
 ### Задание 3
@@ -34,6 +38,8 @@ https://github.com/Kirill-pixel/Netology-8.1.-Git/commit/82c7cdb8d91bd16bebd7b09
 
 `В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.`
 
-https://github.com/Kirill-pixel/Netology-8.1.-Git/commit/137a3cb793bbe6261a5d53553fa31aa49033488d
+![Скриншот-1](https://github.com/Kirill-pixel/Netology-8.2/blob/main/8.2%20CI-CD/3.1.png)
+![Скриншот-1](https://github.com/Kirill-pixel/Netology-8.2/blob/main/8.2%20CI-CD/3.2.png)
+![Скриншот-1](https://github.com/Kirill-pixel/Netology-8.2/blob/main/8.2%20CI-CD/3.3.png)
 ---
 
